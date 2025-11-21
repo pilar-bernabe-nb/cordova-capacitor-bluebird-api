@@ -5,7 +5,7 @@
 	"main": "www/bluebird.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/BlueFletch/cordova-bluebird-api.git"
+		"url": "https://github.com/pilar-bernabe-nb/cordova-capacitor-bluebird-api.git.git"
 	},
 	"keywords": [
 		"capacitor",
@@ -19,7 +19,7 @@
 	"author": "Pilar BF",
 	"license": "Apache-2.0",
 	"bugs": {
-		"url": "https://github.com/BlueFletch/cordova-bluebird-api/issues"
+		"url": "https://github.com/pilar-bernabe-nb/cordova-capacitor-bluebird-api/issues"
 	},
-	"homepage": "https://github.com/BlueFletch/cordova-bluebird-api#readme"
+	"homepage": "https://github.com/pilar-bernabe-nb/cordova-capacitor-bluebird-api#readme"
 }
